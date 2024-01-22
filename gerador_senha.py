@@ -4,7 +4,7 @@ from tkinter import StringVar, messagebox
 import random
 import string
 import pyperclip
-#TESTE
+
 class GeradorSenha:
     def __init__(self, root):
         self.root = root
